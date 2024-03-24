@@ -1,0 +1,12 @@
+{
+    "ID": "9e525e70-0a43-4249-a7af-fb1ab7e181d1",
+    "ActionKeyword": "c",
+    "Name": "Share Calculator",
+    "Description": "Calculates how many shares an account could buy at a price",
+    "Author": "Lomzem",
+    "Version": "1.0",
+    "Language": "python",
+    "Website": "https://github.com/Lomzem/FlowLauncherShareCalc",
+    "IcoPath": "Images\\calculator.png",
+    "ExecuteFileName": "main.py"
+}
